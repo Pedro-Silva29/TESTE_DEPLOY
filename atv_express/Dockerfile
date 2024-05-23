@@ -13,4 +13,3 @@ RUN npm install
 ENV PORT 3000
 EXPOSE 3000
 CMD [ "npm", "start" ]
->>>>>>> 896d22810eb950bd05db71a7401007a71693778b
